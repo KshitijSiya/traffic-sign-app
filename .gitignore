@@ -6,3 +6,9 @@ __pycache__/
 
 # VS Code settings
 .vscode/
+
+# Ignore large model formats
+saved_model/
+
+# Ignore test images
+Test Images/
